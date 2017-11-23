@@ -223,6 +223,15 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 <img src="images/gallery/fantasque-sans-mono-light.png" width="725">
 
 
+### [Fifteen](fonts/fifteen)
+
+[ [License](fonts/fifteen/license.txt) ]
+
+<img src="images/gallery/fifteen-STP.png" width="725">
+<img src="images/gallery/fifteen-STPC.png" width="725">
+<img src="images/gallery/fifteen-dark.png" width="725">
+<img src="images/gallery/fifteen-light.png" width="725">
+
 
 ### [Fira Code](fonts/fira-code)  [![Ligatures](https://img.shields.io/badge/ligatures-✓-green.svg?style=flat)](#)
 
